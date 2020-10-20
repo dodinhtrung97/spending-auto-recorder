@@ -1,0 +1,12 @@
+{
+  "name": "spending-record",
+  "displayName": "spending-record",
+  "expo": {
+    "name": "spending-record",
+    "slug": "spending-record",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
