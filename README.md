@@ -28,10 +28,10 @@ In each component directory, we have an index.js file that exports the specified
 ### Documentation
 [Environment Setup](https://reactnative.dev/docs/environment-setup)
 
-[Atomic design with React](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/)
+[Create and manage virtual devices (AVD)](https://developer.android.com/studio/run/managing-avds)
 
 [Babel Plugin module resolver](https://github.com/tleunen/babel-plugin-module-resolver#getting-started)
 
-[SQLite Database in React Native](https://aboutreact.com/example-of-sqlite-database-in-react-native/)
+[Atomic design with React](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/)
 
-[Create and manage virtual devices (AVD)](https://developer.android.com/studio/run/managing-avds)
+[SQLite Database in React Native](https://aboutreact.com/example-of-sqlite-database-in-react-native/)
